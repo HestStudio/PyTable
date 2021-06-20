@@ -1,10 +1,9 @@
 # PyTable
 
 ## Introduction
-A date structure which is similar to Map in JavaScript
+A data structure which is similar to Map in JavaScript
 <br>
 (This project is not completed yet, it probably will be finished around July 15th)
-(目前还未完工，预计7月中旬完成)
 
 ## Usage
 - Initialize
