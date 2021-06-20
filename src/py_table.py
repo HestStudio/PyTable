@@ -1,4 +1,7 @@
-n):
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class TableError(Exception):
     def __init__(self, value):
         self.value = value
 
