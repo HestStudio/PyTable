@@ -1,5 +1,5 @@
 # PyTable
-_**[English Documentation](https://github.com/PyMorseCoder/PyTable/blob/master/README-EN.md)**_
+See _**[English Documentation](https://github.com/PyMorseCoder/PyTable/blob/master/README-EN.md)**_
 
 ## 介绍
 类似于JavaScript的Map的数据结构
